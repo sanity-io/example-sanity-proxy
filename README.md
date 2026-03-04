@@ -1,3 +1,5 @@
+This example is now archived and won't receive further changes.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 It was created to be cloned down or built upon to serve as a proxy for 3rd party API requests from Sanity to other services. It was specifically built for our Smartling integration (which is why there's some extra logic for sending and receiving files) but could be used for other purposes.
